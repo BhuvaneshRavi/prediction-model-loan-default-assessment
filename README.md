@@ -24,8 +24,9 @@ The build Machine learning Model is capable of identifying a potential set of cu
 
 ## Visualisation Model Performance and Validation:
 
-<a href = "output_artifacts/roc_curve_Kfold_trainset.png"></a>
-<a href = "output_artifacts/roc_curve_test_validation.png"></a>
+![Alt text](output_artifacts/roc_curve_Kfold_trainset.png?raw=true "Roc Curve - Model Performance")
+
+![Alt text](output_artifacts/roc_curve_test_validation.png?raw=true "ROC Curve - Test Validation")
 
 Please refer to the report_on_prediction_inference.pdf for futher explanation. 
 
